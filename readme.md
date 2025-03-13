@@ -1,8 +1,8 @@
 Olá eu sou Tukaze🤯🤯🤯
 
 Gosto de jogar Valorant
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasTukaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunograna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunograna&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+<div> 
+<a href="https://beacons.ai/rafaballerini"> 
+<ing height="180em" src="https://github-readme-stats.vercel.app/api/username-rafaballerini2&show icons-true&theme-darkBinclude_all_commits-true&count_private-true"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballeriniz&layout-compact&langs count-16&theme-dracula"/> 
+  </div>
