@@ -80,9 +80,6 @@ Busco oportunidades como Desenvolvedor de Sistemas, contribuindo com soluções 
 
 📧 nicolastukaze09@gmail.com
 
-💼 LinkedIn
-
-🌎 Portfólio
 
 ---
 
