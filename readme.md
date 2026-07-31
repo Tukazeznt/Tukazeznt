@@ -1,86 +1,89 @@
-# 👋 Olá, eu sou Nicolas Tukaze
+# 👋 Olá! Eu sou Nicolas
 
-## 💻 Desenvolvedor de Sistemas
+### 💻 Estudante de Desenvolvimento de Sistemas
 
-Sou um desenvolvedor de sistemas apaixonado por tecnologia, desenvolvimento de software e resolução de problemas. Estou sempre buscando aprender novas tecnologias e criar soluções que unam qualidade, desempenho e uma boa experiência para o usuário.
+🎓 Estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação.
 
-Atualmente, tenho experiência no desenvolvimento de aplicações web, banco de dados, automação com Arduino e metodologias ágeis, participando de projetos que fortaleceram minhas habilidades técnicas e de gestão.
-
----
-
-## 🚀 Tecnologias
-
-### Linguagens
-
-* PHP
-* JavaScript
-* HTML
-* CSS
-* C/C++ (Arduino)
-* SQL
-
-### Banco de Dados
-
-* MySQL
-
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* Arduino IDE
-
-### Metodologias
-
-* Scrum
-* Kanban
-* Product Owner (PO)
+Estou construindo minha trajetória na área de desenvolvimento de software, buscando transformar ideias em projetos e aprimorar constantemente meus conhecimentos em programação, banco de dados, desenvolvimento web e tecnologia.
 
 ---
 
-## 📌 Projetos
+## 🚀 Sobre mim
 
-### 🎬 Orion
+* 🎓 Estudante de Desenvolvimento de Sistemas
+* 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática
+* 📚 Sempre buscando aprender novas tecnologias
+* 🧠 Interessado em desenvolvimento de software e soluções tecnológicas
+* 🤝 Gosto de trabalhar em equipe e participar de projetos colaborativos
+* 🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia
 
-Plataforma de streaming de filmes desenvolvida utilizando PHP, MySQL, HTML, CSS e JavaScript.
+---
 
-**Minha atuação**
+## 🛠️ Tecnologias que estou estudando
+
+### 💻 Desenvolvimento
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🎬 Orion — Plataforma de Streaming
+
+Projeto acadêmico desenvolvido durante **6 meses**, com o objetivo de criar uma plataforma de streaming de filmes.
+
+**Tecnologias:**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Minha atuação:**
 
 * Product Owner
+* Organização do projeto
 * Levantamento de requisitos
-* Gestão do backlog
-* Planejamento das entregas
-* Validação das funcionalidades
-
-Tecnologias:
-PHP • MySQL • HTML • CSS • JavaScript
+* Priorização de funcionalidades
+* Acompanhamento do desenvolvimento
+* Validação das entregas
 
 ---
 
-### 🚦 NexusTech
+### 🚦 NexusTech — Sistema de Semáforos
 
-Projeto de automação utilizando Arduino para simular um sistema inteligente de controle de semáforos.
+Projeto desenvolvido durante **6 meses**, utilizando Arduino para criar uma maquete de um sistema de semáforos.
 
-Tecnologias:
-Arduino 
+**Tecnologias e conceitos:**
 
----
+`Arduino` `C/C++` `Eletrônica` `Automação`
 
+O projeto permitiu colocar em prática conceitos de programação embarcada, lógica de programação, eletrônica e automação.
 
-
----
-
-## 🎯 Objetivo
-
-Busco oportunidades como Desenvolvedor de Sistemas, contribuindo com soluções inovadoras, aprendizado contínuo e desenvolvimento de projetos de alto impacto.
-
----
-
-## 📫 Contato
-
-📧 nicolastukaze09@gmail.com
 
 
 ---
 
-⭐ *"A tecnologia move o mundo, mas são as pessoas que criam as soluções."*
+## 🎯 Meu objetivo
+
+Construir uma carreira na área de tecnologia, evoluindo como desenvolvedor e adquirindo experiência através de projetos reais e desafios que me permitam aplicar meus conhecimentos.
+
+> 💡 "Cada projeto é uma oportunidade para aprender algo novo."
+
+---
+
+
+⭐ Se algum dos meus projetos for interessante, fique à vontade para explorar meus repositórios!
